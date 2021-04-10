@@ -1,2 +1,2 @@
 # BookAPI
-Web API that takes in User's favoriteBooks and stores it into a in SQLite database.
+Web API that takes in User's favorite books and stores it into into a SQLite database. Project built using Visual Studio and C#
